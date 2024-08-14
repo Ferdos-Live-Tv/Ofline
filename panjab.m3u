@@ -1,0 +1,15 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Ptc_Music.jpg/revision/latest?cb=20191217212601",PTC MUSIC
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/PTC_News.jpg/revision/latest?cb=20240314193437",PTC NEWS
+https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/PTC_Chakde.jpg/revision/latest?cb=20180625062623",PTC CHAKDE
+https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Ptc_Dhol_tv.jpeg/revision/latest?cb=20200114195425",PTC DHOL
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png",PTC PUNJABI
+https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Ptc_Punjabi_Gold.jpeg/revision/latest?cb=20191217211703",PTC PUNJABI GOLD
+https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/PTC_Simran.jpg/revision/latest?cb=20191115070358",PTC SIMRAN
+https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
